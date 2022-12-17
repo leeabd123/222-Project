@@ -49,6 +49,8 @@ Another issue we had was the lack of communication between team members. For the
 
 git clone https://github.com/CS222-UIUC/course-project-team-8
 
+Open mnist-web-canvas in vscode
+
 npm install
 
 ## **To Run the Server**

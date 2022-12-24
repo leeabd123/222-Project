@@ -76,3 +76,4 @@ node mnist.js
 **Connor French:**
 
 *  Worked on website and connecting routes
+[![Watch the video](https://user-images.githubusercontent.com/90123334/209387622-1d03f551-c69a-42e3-be7f-c465748d4fb5.png)](https://drive.google.com/file/d/1h_tl_bvMlRlHj8Q_iyWDa0SWcdybwRa5/view?usp=sharing)
